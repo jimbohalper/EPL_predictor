@@ -17,3 +17,7 @@ Wins without conceding first
 Summer signings' suitability 
 
 All these and more will be considered in the creation of this year's premier league position predictor
+
+
+Gathering the data to be used, I made use of the final table from each of the seasons considered from the official premier league website.
+To get the xG of all teams from each of the seasons, I got data from Understat.com
